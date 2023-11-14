@@ -1,0 +1,136 @@
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+
+background-color: rgb(255, 248, 240);
+}
+p{
+
+  
+   text-align: center;
+    color: rgb(67, 160, 74);
+    font-size: 215x;
+    position:relative;
+}
+
+.title{
+    font-family: 'Rowdies', sans-serif;
+
+    color: rgb(67, 160, 74);
+   text-align: center;
+   font-size: 50px;
+   
+}
+
+.line{
+border-bottom: 3px solid;
+border-color: rgb(67, 160, 74);
+stroke:none;
+}
+
+.subheading{
+    font-family: 'Rowdies', sans-serif;
+ left:25px;
+    color: rgb(67, 160, 74);
+    font-size: 30px;
+    
+}
+
+.ingre{
+    font-family: 'Rowdies', sans-serif;
+ left:25px;
+ color: rgb(67, 160, 74);
+    font-size: 30px;
+    text-decoration: underline;
+  
+}
+
+.steps{
+    font-family: 'Rowdies', sans-serif;
+    margin-left: .5em;
+    color: rgb(67, 160, 74);
+    font-size: 30px;
+   text-align: center;
+}
+
+
+
+/* .main-image{
+    width:1000px;
+    height:auto;
+} */
+
+
+.main-image{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+    width:40%;
+    align-items: center;
+}
+
+a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color:rgb(67, 160, 74);
+    font-size:20px;
+    font-family: 'IBM Plex Mono', monospace;
+    left:10%;
+    text-align: center;
+    margin-top: 10px;;
+    margin: 10px;
+}
+
+ul li{
+   color:rgb(67, 160, 74);
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'IBM Plex Mono', monospace;
+    width:50%;
+    height:100W;
+  
+}
+
+
+/* .green-border{
+    background:rgb(67, 160, 74);
+    width:100vw;
+    height:20px;
+    top: 20px;
+    position:absolute;
+ 
+} */
+
+.green-box{
+    background:rgb(82, 196, 118);
+    width:50px;
+    height:50px;
+    position:relative;
+    top:100px;
+    left:40px;
+ 
+}
+
+.blue-box{
+    background:blue;
+    position: fixed;
+    top:20px;
+    right: 50px;
+    width:50px;
+    height:50px;
+    
+ 
+}
+
+
+
