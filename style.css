@@ -102,14 +102,7 @@ div{
 }
 
 
-/* .green-border{
-    background:rgb(67, 160, 74);
-    width:100vw;
-    height:20px;
-    top: 20px;
-    position:absolute;
- 
-} */
+
 
 .green-box{
     background:rgb(82, 196, 118);
@@ -132,5 +125,25 @@ div{
  
 }
 
+.lemon-float{
+position: absolute;
+scale:15%;
+top:50vw;
+right:220px;
+}
 
+.whisk{
+    position: absolute;
+    scale:15%;
+    top:90vw;
+    left:200px;
+    }
+
+.lemon-split{
+    position: absolute;
+    scale:15%;
+    top:130vw;
+    right:200px;
+}
+    
 
